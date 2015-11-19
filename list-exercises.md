@@ -12,24 +12,24 @@ Use the following list for the questions:
 
 ### How would I access the third element in the list? 
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list[2]
 
 ### How would I access the element at index 3? 
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list[2]
 
 ### What would I get if I did my_list[1]?
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- 2
 
 ### What are three ways I could access the last element of the list?
 *(HINT: Look up the len method for Python lists.)*
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list[-1] or my_list[4] or my_list[len(my_list)-1]
 
 ### How would I find the length of the list?
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- len(my_list)
 
 ### Use the list below to complete the following table (the first one is done for you):
 my_list = [1, 2, “kitten”,  4, “five”, 6, 7]
